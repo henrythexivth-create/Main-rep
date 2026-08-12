@@ -1,0 +1,6 @@
+print ('this is a python project')
+print (1)
+print ('11+700=')
+print (11+700)
+print ('word', 1)
+print ("welcome to ", end = '*')
