@@ -1,0 +1,7 @@
+print ('Hello! What is your name?')
+name = input ()
+print ('How old are you',name,'?')
+age = input ()
+print ('What is your favorite game',name,'?')
+game = input ()
+print ('Hello',name,'! You are',age,'years old! Your favorite game is',game,'!')
